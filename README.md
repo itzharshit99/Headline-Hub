@@ -35,7 +35,7 @@ The Headline Hub is a web application that fetches and displays news from [newsa
 ### Steps to Run the Project
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/itzharshit99/Headline-Hub.git)
    cd headline-hub
    ```
 
